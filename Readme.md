@@ -1,3 +1,4 @@
+# This repository is archived as of November 22, 2023
 # Community Specification
 
 ## What is the Community Specification For?
